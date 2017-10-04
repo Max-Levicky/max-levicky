@@ -1,3 +1,4 @@
+console.log("cjs script works");
 defaultBranch();
 window.onclick = function() {
     setTimeout(
